@@ -1,0 +1,56 @@
+.heading {
+    font-size: 50px;
+}
+
+.hr {
+    width: 400px;
+}
+
+.card {
+    border: none;
+}
+
+.cardbody {
+    padding: 30px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+.showcontainer {
+    padding: 20px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+.addbutton {
+    /* padding: 3px 65px 3px 65px; */
+    border: none;
+    color: white;
+    padding: 10px;
+    background: green;
+    font-size: 20px;
+}
+
+.addbutton:hover {
+    color: black;
+    background: rgb(138, 141, 138);
+    transition: all 0.5s ease;
+}
+
+.deletebutton {
+    padding: 1px 10px 1px 10px;
+    border: none;
+    color: white;
+    background: green;
+    font-size: 20px;
+    margin: 20px;
+}
+
+.deletebutton:hover {
+    color: black;
+    background: rgb(138, 141, 138);
+    transition: all 0.5s ease;
+}
+
+.getdata {
+    font-size: 20px;
+    padding: 10px;
+}
